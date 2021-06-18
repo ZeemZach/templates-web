@@ -1,0 +1,39 @@
+Requirement detail before development a application
+
+-Locations from where company sell second hand car
+	
+	a)state
+	b)city
+	c)area
+
+-Pricing structure
+-onRoad Pricing structure
+-cars detail:
+	a)Brand name of cars available to seller 
+	b)model number
+	c)how many kilometer has run uptill now to show buyer
+	d)photos of car
+
+
+Questions?
+
+-New car also be selled by this application?
+-Online Payment will be their Or Not?
+-In how many days paper works get completed?
+-how u will transport selled car?
+-do u want comparing features - so buyer can compare their car with other available cars
+
+
+Fuctioning of whole application:
+
+
+Login page - for car seller
+Home page -
+		1)user can search car by brand,model number and also with filters like price etc
+		2)card view will be available to give short detail about car like brand name, model, price
+		3)on clicking card - breif description will be available about that car and also that car is availble in which location for sell
+		4)number of car has been selled uptill now
+		5)reviews of buyers about our car selling method and what services we provide with cars
+
+about page - breifying about company  
+EMI calculator 
